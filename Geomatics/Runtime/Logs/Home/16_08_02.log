@@ -1,0 +1,299 @@
+[ 2016-08-02T19:50:15+08:00 ] 127.0.0.1 /web/pluginRepository.xml
+ERR: 无法加载控制器:Web
+
+[ 2016-08-02T19:54:57+08:00 ] ::1 /Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001644s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0729s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0088s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000759s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000815s ]
+
+[ 2016-08-02T19:54:58+08:00 ] ::1 /Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000575s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000612s ]
+
+[ 2016-08-02T19:55:01+08:00 ] ::1 /Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000811s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000714s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000767s ]
+
+[ 2016-08-02T19:55:13+08:00 ] ::1 /Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000844s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002020s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000674s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000719s ]
+
+[ 2016-08-02T19:55:25+08:00 ] ::1 /Public/umeditor/themes/default/css/umeditor.css
+ERR: 无法加载控制器:Public
+
+[ 2016-08-02T19:56:17+08:00 ] ::1 /Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001173s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000867s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000907s ]
+
+[ 2016-08-02T19:56:21+08:00 ] ::1 /Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001376s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000898s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000938s ]
+
+[ 2016-08-02T19:56:24+08:00 ] ::1 /Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001191s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000667s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000706s ]
+
+[ 2016-08-02T19:56:27+08:00 ] ::1 /Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001711s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000861s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000897s ]
+
+[ 2016-08-02T19:56:30+08:00 ] ::1 /Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001231s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000920s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000960s ]
+
+[ 2016-08-02T19:56:45+08:00 ] ::1 /Public/Admin/js/Admin_fixAdminPass.js
+ERR: 无法加载控制器:Public
+
+[ 2016-08-02T20:28:30+08:00 ] ::1 /Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000774s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000579s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000615s ]
+
+[ 2016-08-02T20:28:38+08:00 ] ::1 /Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001319s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = 'f30a337dbc21be827493bc5da89ae2a9fffe4c19' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000631s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000670s ]
+
+[ 2016-08-02T20:28:39+08:00 ] ::1 /Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000864s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = 'f30a337dbc21be827493bc5da89ae2a9fffe4c19' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000613s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000655s ]
+
+[ 2016-08-02T20:28:41+08:00 ] ::1 /Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001580s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = 'f30a337dbc21be827493bc5da89ae2a9fffe4c19' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000662s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000699s ]
+
+[ 2016-08-02T20:47:38+08:00 ] ::1 /Public/Admin/js/Admin_fixAdminPass.js
+ERR: 无法加载控制器:Public
+
+[ 2016-08-02T20:49:40+08:00 ] ::1 /Consult/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000855s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+SQL: SHOW COLUMNS FROM `map_setting` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `map_setting` WHERE `code` = 'noName' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009918s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009968s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000528s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000562s ]
+
+[ 2016-08-02T20:49:42+08:00 ] ::1 /Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+SQL: SHOW COLUMNS FROM `map_content` [ RunTime:0.0088s ]
+SQL: SELECT `id`,`title`,`date` FROM `map_content` WHERE `type` = '最新公告' ORDER BY date desc LIMIT 5   [ RunTime:0.0016s ]
+SQL: SELECT `id`,`title`,`date` FROM `map_content` WHERE `type` = '校内新闻' ORDER BY date desc LIMIT 5   [ RunTime:0.0013s ]
+SQL: SELECT `id`,`title`,`date` FROM `map_content` WHERE `type` = '学院动态' ORDER BY date desc LIMIT 8   [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `map_down` [ RunTime:0.0046s ]
+SQL: SELECT `id`,`title`,`route`,`date` FROM `map_down` ORDER BY date desc LIMIT 5   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `map_imgtoggle` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `map_imgtoggle` ORDER BY id desc LIMIT 4   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040525s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040571s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000503s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000538s ]
+
+[ 2016-08-02T20:49:43+08:00 ] ::1 /Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000742s ]
+SQL: SHOW COLUMNS FROM `map_content` [ RunTime:0.0041s ]
+SQL: SELECT `id`,`title`,`date` FROM `map_content` WHERE `type` = '最新公告' ORDER BY date desc LIMIT 5   [ RunTime:0.0014s ]
+SQL: SELECT `id`,`title`,`date` FROM `map_content` WHERE `type` = '校内新闻' ORDER BY date desc LIMIT 5   [ RunTime:0.0016s ]
+SQL: SELECT `id`,`title`,`date` FROM `map_content` WHERE `type` = '学院动态' ORDER BY date desc LIMIT 8   [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `map_down` [ RunTime:0.0037s ]
+SQL: SELECT `id`,`title`,`route`,`date` FROM `map_down` ORDER BY date desc LIMIT 5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `map_imgtoggle` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `map_imgtoggle` ORDER BY id desc LIMIT 4   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014509s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014551s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000461s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000500s ]
+
+[ 2016-08-02T21:03:31+08:00 ] ::1 /Public/umeditor/themes/default/css/umeditor.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000850s ]
+ERR: 无法加载控制器:Public
+

@@ -1,0 +1,99 @@
+[ 2016-07-19T14:16:51+08:00 ] 127.0.0.1 /rjsdcctrl?mac%3d3c970edcbec0%26ipv4%3d1655623546%26ipv61%3d0%26ipv62%3d0%26ipv63%3d0%26ipv64%3d0%26product%3d33554432%26mainver%3d67108864%26subver%3d1660944384
+ERR: 无法加载控制器:Rjsdcctrl
+
+[ 2016-07-19T20:16:42+08:00 ] ::1 /index.php/Personal/uploadCertificate
+ERR: 模板不存在:./Geomatics/Home/View/Personal/uploadCertificate.php
+
+[ 2016-07-19T20:19:05+08:00 ] ::1 /index.php/Personal/message
+ERR: 模板不存在:./Geomatics/Home/View/Personal/message.php
+
+[ 2016-07-19T20:39:47+08:00 ] ::1 /index.php/Personal/scort.html
+ERR: 非法操作:scort
+
+[ 2016-07-19T20:39:56+08:00 ] ::1 /index.php/Personal/scort.html
+ERR: 非法操作:scort
+
+[ 2016-07-19T21:11:43+08:00 ] ::1 /index.php/Personal/css/style1.css
+ERR: 非法操作:css
+
+[ 2016-07-19T21:11:47+08:00 ] ::1 /index.php/Personal/css/style1.css
+ERR: 非法操作:css
+
+[ 2016-07-19T21:13:21+08:00 ] ::1 /index.php/Personal/css/style1.css
+ERR: 非法操作:css
+
+[ 2016-07-19T21:13:22+08:00 ] ::1 /index.php/Personal/css/style1.css
+ERR: 非法操作:css
+
+[ 2016-07-19T21:13:23+08:00 ] ::1 /index.php/Personal/css/style1.css
+ERR: 非法操作:css
+
+[ 2016-07-19T21:13:34+08:00 ] ::1 /index.php/Personal/css/style1.css
+ERR: 非法操作:css
+
+[ 2016-07-19T21:13:34+08:00 ] ::1 /index.php/Personal/css/style1.css
+ERR: 非法操作:css
+
+[ 2016-07-19T21:13:45+08:00 ] ::1 /index.php/Personal/css/style1.css
+ERR: 非法操作:css
+
+[ 2016-07-19T21:13:51+08:00 ] ::1 /index.php/Personal/css/style1.css
+ERR: 非法操作:css
+
+[ 2016-07-19T21:13:53+08:00 ] ::1 /index.php/Personal/css/style1.css
+ERR: 非法操作:css
+
+[ 2016-07-19T21:16:08+08:00 ] ::1 /index.php/Personal/css/style1.css
+ERR: 非法操作:css
+
+[ 2016-07-19T21:43:56+08:00 ] ::1 /index.php/Personal/css/jquery-ui.css
+ERR: 非法操作:css
+
+[ 2016-07-19T21:43:56+08:00 ] ::1 /index.php/Personal/js/jquery-ui.js
+ERR: 非法操作:js
+
+[ 2016-07-19T21:43:56+08:00 ] ::1 /index.php/Personal/js/jquery-1.12.2.js
+ERR: 非法操作:js
+
+[ 2016-07-19T21:43:56+08:00 ] ::1 /index.php/Personal/css/style1.css
+ERR: 非法操作:css
+
+[ 2016-07-19T21:44:08+08:00 ] ::1 /index.php/Personal/css/jquery-ui.css
+ERR: 非法操作:css
+
+[ 2016-07-19T21:44:08+08:00 ] ::1 /index.php/Personal/css/style1.css
+ERR: 非法操作:css
+
+[ 2016-07-19T21:44:43+08:00 ] ::1 /Public/js/jquery-ui.js
+ERR: 无法加载控制器:Public
+
+[ 2016-07-19T21:44:43+08:00 ] ::1 /Public/css/style1.css
+ERR: 无法加载控制器:Public
+
+[ 2016-07-19T21:44:43+08:00 ] ::1 /Public/css/jquery-ui.css
+ERR: 无法加载控制器:Public
+
+[ 2016-07-19T21:44:43+08:00 ] ::1 /Public/js/jquery-1.12.2.js
+ERR: 无法加载控制器:Public
+
+[ 2016-07-19T21:45:16+08:00 ] ::1 /Public/css/jquery-ui.css
+ERR: 无法加载控制器:Public
+
+[ 2016-07-19T21:45:16+08:00 ] ::1 /Public/js/jquery-1.12.2.js
+ERR: 无法加载控制器:Public
+
+[ 2016-07-19T21:45:16+08:00 ] ::1 /Public/css/style1.css
+ERR: 无法加载控制器:Public
+
+[ 2016-07-19T21:45:16+08:00 ] ::1 /Public/js/jquery-ui.js
+ERR: 无法加载控制器:Public
+
+[ 2016-07-19T22:02:34+08:00 ] ::1 /Public/Geomatics/css/jquery-ui.css
+ERR: 无法加载控制器:Public
+
+[ 2016-07-19T22:02:34+08:00 ] ::1 /Public/Geomatics/css/style1.css
+ERR: 无法加载控制器:Public
+
+[ 2016-07-19T22:02:34+08:00 ] ::1 /Public/Geomatics/js/jquery-ui.js
+ERR: 无法加载控制器:Public
+

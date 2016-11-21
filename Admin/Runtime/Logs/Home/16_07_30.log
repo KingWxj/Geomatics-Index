@@ -1,0 +1,214 @@
+[ 2016-07-30T02:28:31+08:00 ] ::1 /admin.php/Login/checkInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Admin\Home\Controller\LoginController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0891s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000639s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000673s ]
+
+[ 2016-07-30T02:28:37+08:00 ] ::1 /admin.php/Login/checkInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000936s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Admin\Home\Controller\LoginController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000690s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000728s ]
+
+[ 2016-07-30T02:28:42+08:00 ] ::1 /admin.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001036s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000619s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000654s ]
+
+[ 2016-07-30T02:30:18+08:00 ] ::1 /admin.php/Evaluate/runEvaluateCer.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000943s ]
+SQL: SHOW COLUMNS FROM `map_certificate` [ RunTime:0.0082s ]
+SQL: SELECT * FROM `map_certificate` WHERE `id` = 6 LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `map_certificate` SET `verify`='1',`score`='666',`scoreLevel`='0' WHERE `id` = 6 [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000701s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000742s ]
+
+[ 2016-07-30T17:07:20+08:00 ] ::1 /admin.php/Login/checkInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001132s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Admin\Home\Controller\LoginController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.1270s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0397s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000586s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000628s ]
+
+[ 2016-07-30T17:07:23+08:00 ] ::1 /admin.php/Login/checkInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Admin\Home\Controller\LoginController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000626s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000663s ]
+
+[ 2016-07-30T17:07:26+08:00 ] ::1 /admin.php/Login/checkInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000835s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Admin\Home\Controller\LoginController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000628s ]
+
+[ 2016-07-30T17:07:31+08:00 ] ::1 /admin.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000940s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000518s ]
+
+[ 2016-07-30T17:07:36+08:00 ] ::1 /admin.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000601s ]
+
+[ 2016-07-30T17:07:42+08:00 ] ::1 /admin.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000759s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000493s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000530s ]
+
+[ 2016-07-30T21:12:29+08:00 ] ::1 /admin.php/Login/checkInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000828s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001277s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Admin\Home\Controller\LoginController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0463s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000594s ]
+
+[ 2016-07-30T21:12:39+08:00 ] ::1 /admin.php/Login/checkInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Admin\Home\Controller\LoginController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000595s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000630s ]
+
+[ 2016-07-30T21:12:41+08:00 ] ::1 /admin.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000805s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000443s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2016-07-30T21:12:48+08:00 ] ::1 /admin.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000806s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000505s ]
+
+[ 2016-07-30T21:12:54+08:00 ] ::1 /admin.php/Login/checkInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001890s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Admin\Home\Controller\LoginController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000874s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000953s ]
+
+[ 2016-07-30T21:13:08+08:00 ] ::1 /admin.php/Login/checkInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Admin\Home\Controller\LoginController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000767s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000831s ]
+
+[ 2016-07-30T21:13:11+08:00 ] ::1 /admin.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000786s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000453s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000492s ]
+
+[ 2016-07-30T21:14:02+08:00 ] ::1 /admin.php/Login/checkInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001657s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Admin\Home\Controller\LoginController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000768s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000842s ]
+
+[ 2016-07-30T21:14:07+08:00 ] ::1 /admin.php/Login/checkInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000912s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Admin\Home\Controller\LoginController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000577s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000611s ]
+
+[ 2016-07-30T21:14:09+08:00 ] ::1 /admin.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000758s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000492s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000534s ]
+

@@ -1,0 +1,570 @@
+[ 2016-07-27T02:01:36+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000514s ]
+
+[ 2016-07-27T02:11:20+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000891s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000598s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000645s ]
+
+[ 2016-07-27T02:11:21+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000605s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000646s ]
+
+[ 2016-07-27T02:11:25+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000879s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = 'd56fe91441a94395b6e0c3143b75aa76c375c79e' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000642s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000681s ]
+
+[ 2016-07-27T02:11:26+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000832s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = 'd56fe91441a94395b6e0c3143b75aa76c375c79e' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000609s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000649s ]
+
+[ 2016-07-27T02:11:29+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000811s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000626s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000664s ]
+
+[ 2016-07-27T02:11:30+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000778s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000581s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000620s ]
+
+[ 2016-07-27T02:11:36+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000789s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000428s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000468s ]
+
+[ 2016-07-27T02:11:38+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000805s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000619s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000659s ]
+
+[ 2016-07-27T02:11:42+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000853s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '329dc1daf9fb9d5e75d687dd9e0740e1c72796c3' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000571s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2016-07-27T02:11:43+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000808s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '329dc1daf9fb9d5e75d687dd9e0740e1c72796c3' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000604s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000643s ]
+
+[ 2016-07-27T02:11:44+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000778s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '329dc1daf9fb9d5e75d687dd9e0740e1c72796c3' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000645s ]
+
+[ 2016-07-27T02:11:46+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '' AND `password` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000642s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000694s ]
+
+[ 2016-07-27T02:11:50+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '' AND `password` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000679s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000731s ]
+
+[ 2016-07-27T02:12:06+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000929s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '' AND `password` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000839s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000903s ]
+
+[ 2016-07-27T02:12:11+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000586s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000628s ]
+
+[ 2016-07-27T02:12:12+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000879s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000617s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000657s ]
+
+[ 2016-07-27T02:12:27+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001699s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000627s ]
+
+[ 2016-07-27T02:12:34+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000883s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0044s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = 'd56fe91441a94395b6e0c3143b75aa76c375c79e' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000655s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000696s ]
+
+[ 2016-07-27T02:12:35+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000810s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = 'd56fe91441a94395b6e0c3143b75aa76c375c79e' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000572s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000608s ]
+
+[ 2016-07-27T02:12:37+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000811s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000595s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000639s ]
+
+[ 2016-07-27T02:12:38+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000623s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000665s ]
+
+[ 2016-07-27T02:12:43+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000649s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000727s ]
+
+[ 2016-07-27T02:12:46+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000799s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0076s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000769s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000834s ]
+
+[ 2016-07-27T02:12:48+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000785s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000772s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000837s ]
+
+[ 2016-07-27T02:13:47+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000886s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = 'd56fe91441a94395b6e0c3143b75aa76c375c79e' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000614s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000674s ]
+
+[ 2016-07-27T02:13:48+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = 'd56fe91441a94395b6e0c3143b75aa76c375c79e' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000627s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000690s ]
+
+[ 2016-07-27T02:13:51+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000848s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000594s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000632s ]
+
+[ 2016-07-27T02:13:52+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000629s ]
+
+[ 2016-07-27T02:13:55+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000806s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000573s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000610s ]
+
+[ 2016-07-27T02:13:58+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000856s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000597s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000638s ]
+
+[ 2016-07-27T11:34:20+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000950s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060322' AND `password` = '011c945f30ce2cbafc452f39840f025693339c42' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000596s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000631s ]
+
+[ 2016-07-27T11:34:21+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000857s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060322' AND `password` = '011c945f30ce2cbafc452f39840f025693339c42' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000621s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000657s ]
+
+[ 2016-07-27T11:34:27+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000889s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060322' AND `password` = 'f30a337dbc21be827493bc5da89ae2a9fffe4c19' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000651s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000713s ]
+
+[ 2016-07-27T11:34:28+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060322' AND `password` = 'f30a337dbc21be827493bc5da89ae2a9fffe4c19' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000585s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000620s ]
+
+[ 2016-07-27T11:34:33+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000828s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060322' AND `password` = '9919f96447016e2633b0511ecb6b1372f5dc9963' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000580s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000616s ]
+
+[ 2016-07-27T11:34:34+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000792s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060322' AND `password` = '9919f96447016e2633b0511ecb6b1372f5dc9963' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000577s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2016-07-27T11:34:40+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000757s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060322' AND `password` = '9919f96447016e2633b0511ecb6b1372f5dc9963' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000669s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000730s ]
+
+[ 2016-07-27T15:29:30+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000836s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060429' AND `password` = '1856d050a4335bb57a9a08d9475f060aacc32116' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000616s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000662s ]
+
+[ 2016-07-27T15:29:31+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000814s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060429' AND `password` = '1856d050a4335bb57a9a08d9475f060aacc32116' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000633s ]
+
+[ 2016-07-27T15:29:36+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000856s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060429' AND `password` = 'ae04b9e60d3d7237f55e3e0ebe9c90b16549e8a8' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000675s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000724s ]
+
+[ 2016-07-27T15:29:37+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060429' AND `password` = 'ae04b9e60d3d7237f55e3e0ebe9c90b16549e8a8' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000604s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000641s ]
+
+[ 2016-07-27T15:29:41+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000889s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060429' AND `password` = '1856d050a4335bb57a9a08d9475f060aacc32116' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000611s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000655s ]
+
+[ 2016-07-27T15:29:42+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000844s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060429' AND `password` = '1856d050a4335bb57a9a08d9475f060aacc32116' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000616s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000658s ]
+
+[ 2016-07-27T15:29:44+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000819s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060429' AND `password` = '1856d050a4335bb57a9a08d9475f060aacc32116' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000651s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000701s ]
+
+[ 2016-07-27T16:54:03+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000785s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000616s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000655s ]
+
+[ 2016-07-27T16:54:04+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000768s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000596s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000634s ]
+
+[ 2016-07-27T16:54:11+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000804s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000440s ]
+
+[ 2016-07-27T16:54:13+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000778s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000608s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000647s ]
+
+[ 2016-07-27T16:54:16+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000474s ]
+
+[ 2016-07-27T16:54:19+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000796s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000583s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000620s ]
+
+[ 2016-07-27T16:54:23+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000767s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000581s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000619s ]
+
+[ 2016-07-27T17:11:23+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000792s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060322' AND `password` = '9919f96447016e2633b0511ecb6b1372f5dc9963' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000566s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000606s ]
+
+[ 2016-07-27T17:11:24+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000782s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060322' AND `password` = '9919f96447016e2633b0511ecb6b1372f5dc9963' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000588s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000626s ]
+
+[ 2016-07-27T17:11:31+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000792s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060322' AND `password` = '9919f96447016e2633b0511ecb6b1372f5dc9963' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000573s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000610s ]
+
+[ 2016-07-27T17:28:39+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000815s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000612s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000656s ]
+
+[ 2016-07-27T17:28:40+08:00 ] ::1 /index.php/Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000789s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000573s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000617s ]
+
+[ 2016-07-27T17:28:45+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000811s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000711s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000760s ]
+

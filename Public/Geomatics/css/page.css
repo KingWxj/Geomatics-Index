@@ -1,0 +1,64 @@
+/*分页居中*/
+#page_tab{
+		text-align: center;
+		margin-bottom: 10px;	
+	}
+	/*当前*/
+.current{
+    background: #2e6ab1;
+    color: #FFFFFF;
+    font-weight: bold;
+    display: inline-block;
+    padding: 4px 6px;
+    margin-right: 2px;
+}
+/*上一页*/
+.prev{
+    border: solid 1px #DEDEDE;
+    color: #888888;
+    display: inline-block;
+    
+    font-weight: bold;
+    margin-right: 2px;
+    padding: 3px 4px;
+}
+/*下一页*/
+.next{
+    border: solid 1px #DEDEDE;
+    color: #888888;
+    display: inline-block;
+    
+    font-weight: bold;
+    margin-right: 2px;
+    padding: 3px 4px;
+}
+/*第一页*/
+.first{
+    border: solid 1px #DEDEDE;
+    color: #888888;
+    display: inline-block;
+    
+    font-weight: bold;
+    margin-right: 2px;
+    padding: 3px 4px;
+}
+/*最后一页*/
+.end{
+    border: solid 1px #DEDEDE;
+    color: #888888;
+    display: inline-block;
+    
+    font-weight: bold;
+    margin-right: 2px;
+    padding: 3px 4px;
+}
+/*普通页*/
+.num{
+    border: solid 1px #DEDEDE;
+    color: #888888;
+    display: inline-block;
+    
+    font-weight: bold;
+    margin-right: 2px;
+    padding: 3px 4px;
+}

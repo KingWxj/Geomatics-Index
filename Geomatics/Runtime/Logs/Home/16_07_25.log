@@ -1,0 +1,9 @@
+[ 2016-07-25T21:08:42+08:00 ] ::1 /index.php/Show/showNews/id/25.html
+ERR: 无法加载控制器:Show
+
+[ 2016-07-25T21:08:46+08:00 ] ::1 /index.php/Show/showNews/id/25.html
+ERR: 无法加载控制器:Show
+
+[ 2016-07-25T21:08:57+08:00 ] ::1 /index.php/Show/showNews/id/25.html
+ERR: 模板不存在:./Geomatics/Home/View/Show/showNews.php
+

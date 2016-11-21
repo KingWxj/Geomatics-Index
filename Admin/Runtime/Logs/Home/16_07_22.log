@@ -1,0 +1,1220 @@
+[ 2016-07-22T10:24:27+08:00 ] ::1 /admin.php/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001119s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0228s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000856s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000904s ]
+
+[ 2016-07-22T10:28:40+08:00 ] ::1 /admin.php/Examine/fixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000777s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `map_exam` WHERE `id` = 103 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_exam` SET `score`='666',`verify`='1',`fixScore`='' WHERE `id` = 103 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000605s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000651s ]
+
+[ 2016-07-22T10:28:41+08:00 ] ::1 /admin.php/Examine/fixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000823s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `map_exam` WHERE `id` = 226 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_exam` SET `score`='666',`verify`='1',`fixScore`='' WHERE `id` = 226 [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000581s ]
+
+[ 2016-07-22T10:28:41+08:00 ] ::1 /admin.php/Examine/fixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000785s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `map_exam` WHERE `id` = 349 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_exam` SET `score`='666',`verify`='1',`fixScore`='' WHERE `id` = 349 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000669s ]
+
+[ 2016-07-22T11:00:15+08:00 ] ::1 /admin.php/Admin/swapAvaliable.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `map_admin` WHERE `id` = 9 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_admin` SET `avaliable`='0' WHERE `id` = 9 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000642s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000677s ]
+
+[ 2016-07-22T11:00:17+08:00 ] ::1 /admin.php/Admin/swapAvaliable.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000783s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `map_admin` WHERE `id` = 8 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_admin` SET `avaliable`='0' WHERE `id` = 8 [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000564s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000600s ]
+
+[ 2016-07-22T11:00:18+08:00 ] ::1 /admin.php/Admin/swapAvaliable.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000819s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `map_admin` WHERE `id` = 8 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_admin` SET `avaliable`='1' WHERE `id` = 8 [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000572s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2016-07-22T11:00:19+08:00 ] ::1 /admin.php/Admin/swapAvaliable.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `map_admin` WHERE `id` = 9 LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `map_admin` SET `avaliable`='1' WHERE `id` = 9 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000714s ]
+
+[ 2016-07-22T11:00:20+08:00 ] ::1 /admin.php/Admin/swapAvaliable.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000810s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `map_admin` WHERE `id` = 8 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_admin` SET `avaliable`='0' WHERE `id` = 8 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000583s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000622s ]
+
+[ 2016-07-22T11:00:21+08:00 ] ::1 /admin.php/Admin/swapAvaliable.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `map_admin` WHERE `id` = 8 LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `map_admin` SET `avaliable`='1' WHERE `id` = 8 [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000603s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000642s ]
+
+[ 2016-07-22T11:00:22+08:00 ] ::1 /admin.php/Admin/swapAvaliable.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `map_admin` WHERE `id` = 9 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_admin` SET `avaliable`='0' WHERE `id` = 9 [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000605s ]
+
+[ 2016-07-22T11:00:23+08:00 ] ::1 /admin.php/Admin/swapAvaliable.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001202s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `map_admin` WHERE `id` = 9 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_admin` SET `avaliable`='1' WHERE `id` = 9 [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000579s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000614s ]
+
+[ 2016-07-22T11:41:59+08:00 ] ::1 /admin.php/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000814s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0441s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000667s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000712s ]
+
+[ 2016-07-22T13:03:25+08:00 ] ::1 /admin.php/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000921s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000580s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000615s ]
+
+[ 2016-07-22T15:15:05+08:00 ] ::1 /admin.php/Stu/statusToggle.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000791s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: stuId D:\phpStudy\WWW\Admin\Home\Controller\StuController.class.php 第 22 行.
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = null LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000825s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000879s ]
+
+[ 2016-07-22T15:15:05+08:00 ] ::1 /admin.php/Stu/statusToggle.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000775s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0038s ]
+NOTIC: [8] Undefined index: stuId D:\phpStudy\WWW\Admin\Home\Controller\StuController.class.php 第 22 行.
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = null LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000570s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000604s ]
+
+[ 2016-07-22T15:15:06+08:00 ] ::1 /admin.php/Stu/statusToggle.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000836s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0038s ]
+NOTIC: [8] Undefined index: stuId D:\phpStudy\WWW\Admin\Home\Controller\StuController.class.php 第 22 行.
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = null LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000635s ]
+
+[ 2016-07-22T15:15:06+08:00 ] ::1 /admin.php/Stu/statusToggle.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000854s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0039s ]
+NOTIC: [8] Undefined index: stuId D:\phpStudy\WWW\Admin\Home\Controller\StuController.class.php 第 22 行.
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = null LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000585s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000619s ]
+
+[ 2016-07-22T15:15:07+08:00 ] ::1 /admin.php/Stu/statusToggle.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000790s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0041s ]
+NOTIC: [8] Undefined index: stuId D:\phpStudy\WWW\Admin\Home\Controller\StuController.class.php 第 22 行.
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = null LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000579s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2016-07-22T15:15:08+08:00 ] ::1 /admin.php/Stu/statusToggle.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000797s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0039s ]
+NOTIC: [8] Undefined index: stuId D:\phpStudy\WWW\Admin\Home\Controller\StuController.class.php 第 22 行.
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = null LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000576s ]
+
+[ 2016-07-22T15:18:59+08:00 ] ::1 /admin.php/Stu/statusToggle.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000786s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0059s ]
+NOTIC: [8] Undefined index: stuId D:\phpStudy\WWW\Admin\Home\Controller\StuController.class.php 第 22 行.
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = null LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000549s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000583s ]
+
+[ 2016-07-22T15:19:13+08:00 ] ::1 /admin.php/Stu/statusToggle.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001053s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0049s ]
+NOTIC: [8] Undefined index: stuId D:\phpStudy\WWW\Admin\Home\Controller\StuController.class.php 第 22 行.
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = null LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000645s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000679s ]
+
+[ 2016-07-22T15:46:32+08:00 ] ::1 /admin.php/Stu/statusToggle.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001129s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `map_stu` SET `avaliable`='0' WHERE `stuId` = '311509060410' [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000734s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000776s ]
+
+[ 2016-07-22T15:46:33+08:00 ] ::1 /admin.php/Stu/statusToggle.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001213s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `map_stu` SET `avaliable`='1' WHERE `stuId` = '311509060410' [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000855s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000925s ]
+
+[ 2016-07-22T15:46:35+08:00 ] ::1 /admin.php/Stu/statusToggle.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001140s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `map_stu` SET `avaliable`='0' WHERE `stuId` = '311509060410' [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000636s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000677s ]
+
+[ 2016-07-22T15:46:35+08:00 ] ::1 /admin.php/Stu/statusToggle.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000876s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `map_stu` SET `avaliable`='1' WHERE `stuId` = '311509060410' [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000605s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000642s ]
+
+[ 2016-07-22T15:46:36+08:00 ] ::1 /admin.php/Stu/statusToggle.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_stu` SET `avaliable`='0' WHERE `stuId` = '311509060410' [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000664s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000703s ]
+
+[ 2016-07-22T15:46:37+08:00 ] ::1 /admin.php/Stu/statusToggle.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001204s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_stu` SET `avaliable`='1' WHERE `stuId` = '311509060410' [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000619s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000655s ]
+
+[ 2016-07-22T15:56:23+08:00 ] ::1 /admin.php/Stu/statusToggle.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000814s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060429' LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `map_stu` SET `avaliable`='0' WHERE `stuId` = '311509060429' [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000609s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000651s ]
+
+[ 2016-07-22T15:56:27+08:00 ] ::1 /admin.php/Stu/statusToggle.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001457s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060429' LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `map_stu` SET `avaliable`='1' WHERE `stuId` = '311509060429' [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000603s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000642s ]
+
+[ 2016-07-22T15:57:03+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0041s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311509060429' [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000756s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000819s ]
+
+[ 2016-07-22T16:21:41+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0071s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311105010517' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000673s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000717s ]
+
+[ 2016-07-22T16:21:42+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000926s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0060s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311205010706' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000612s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000651s ]
+
+[ 2016-07-22T16:21:43+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000805s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0048s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311305010127' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000607s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000646s ]
+
+[ 2016-07-22T16:21:43+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000835s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0048s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311305010328' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000791s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000881s ]
+
+[ 2016-07-22T16:21:44+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000921s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0042s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311305010413' [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000681s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000731s ]
+
+[ 2016-07-22T16:21:44+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000885s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0046s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311305010808' [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000599s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000638s ]
+
+[ 2016-07-22T16:21:46+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000851s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0039s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311305010809' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000656s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000701s ]
+
+[ 2016-07-22T16:21:47+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0045s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311305010918' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000636s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000672s ]
+
+[ 2016-07-22T16:21:47+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000989s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0042s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311305040111' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000647s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000681s ]
+
+[ 2016-07-22T16:36:40+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001132s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0057s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000101' [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000806s ]
+
+[ 2016-07-22T16:36:40+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0067s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000102' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000642s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000691s ]
+
+[ 2016-07-22T16:36:41+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0063s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000103' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000669s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000726s ]
+
+[ 2016-07-22T16:36:41+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000939s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0043s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000104' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000712s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000773s ]
+
+[ 2016-07-22T16:36:42+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000773s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0041s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000105' [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000664s ]
+
+[ 2016-07-22T16:36:43+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000943s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0054s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000106' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000706s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000755s ]
+
+[ 2016-07-22T16:36:43+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000789s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0044s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000107' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000719s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000779s ]
+
+[ 2016-07-22T16:36:43+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001172s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0047s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000108' [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000621s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000660s ]
+
+[ 2016-07-22T16:36:44+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001036s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0056s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000109' [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000874s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001026s ]
+
+[ 2016-07-22T16:36:44+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000800s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0059s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000110' [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000846s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000905s ]
+
+[ 2016-07-22T16:36:45+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000830s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0055s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000111' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000678s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000730s ]
+
+[ 2016-07-22T16:36:46+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000577s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0042s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000112' [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000618s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000666s ]
+
+[ 2016-07-22T16:36:46+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001234s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0044s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000114' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000667s ]
+
+[ 2016-07-22T16:36:47+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001014s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0044s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000115' [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000639s ]
+
+[ 2016-07-22T16:36:47+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001246s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0046s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000116' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000724s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000791s ]
+
+[ 2016-07-22T16:36:48+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001284s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0048s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000117' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000758s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000804s ]
+
+[ 2016-07-22T16:36:48+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0047s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000118' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000673s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000712s ]
+
+[ 2016-07-22T16:36:49+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001334s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0056s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000119' [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000803s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000865s ]
+
+[ 2016-07-22T16:36:50+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001391s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0055s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000120' [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000892s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000962s ]
+
+[ 2016-07-22T16:36:50+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000882s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0047s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000121' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000613s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000650s ]
+
+[ 2016-07-22T16:36:51+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000849s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0042s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000122' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000781s ]
+
+[ 2016-07-22T16:36:51+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0050s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000123' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000605s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000645s ]
+
+[ 2016-07-22T16:36:52+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001056s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0057s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000124' [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000936s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001021s ]
+
+[ 2016-07-22T16:36:52+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000998s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0042s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000125' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000568s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000603s ]
+
+[ 2016-07-22T16:36:53+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001321s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0045s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000126' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000688s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000735s ]
+
+[ 2016-07-22T16:36:54+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000942s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0040s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000128' [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000582s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000620s ]
+
+[ 2016-07-22T16:36:54+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0049s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000129' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000604s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000649s ]
+
+[ 2016-07-22T16:36:55+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000904s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0057s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000201' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000687s ]
+
+[ 2016-07-22T16:36:55+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000988s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0047s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000202' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000593s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000636s ]
+
+[ 2016-07-22T16:36:56+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001008s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0039s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000203' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000825s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000911s ]
+
+[ 2016-07-22T16:36:57+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000852s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0043s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000213' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000584s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000621s ]
+
+[ 2016-07-22T16:36:58+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000816s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0055s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000206' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000639s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000678s ]
+
+[ 2016-07-22T16:36:59+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000852s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0044s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000207' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000611s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000644s ]
+
+[ 2016-07-22T16:37:00+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000779s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0049s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000208' [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000620s ]
+
+[ 2016-07-22T16:37:00+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000891s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0057s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000209' [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000583s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000625s ]
+
+[ 2016-07-22T16:37:01+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0053s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000210' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000617s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000653s ]
+
+[ 2016-07-22T16:37:01+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000886s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0045s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000211' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000611s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000649s ]
+
+[ 2016-07-22T16:37:02+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000774s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0040s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000214' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000605s ]
+
+[ 2016-07-22T16:37:03+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000869s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0042s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000215' [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000616s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000657s ]
+
+[ 2016-07-22T16:37:03+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0045s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000216' [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000598s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000633s ]
+
+[ 2016-07-22T16:37:04+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0048s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000217' [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000783s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000849s ]
+
+[ 2016-07-22T16:37:04+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000841s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0040s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000218' [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000691s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000745s ]
+
+[ 2016-07-22T16:37:05+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000849s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0043s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000220' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000614s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000650s ]
+
+[ 2016-07-22T16:37:06+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001271s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0046s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000222' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000655s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000696s ]
+
+[ 2016-07-22T16:37:06+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0047s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000223' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000747s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000808s ]
+
+[ 2016-07-22T16:37:07+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000901s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0048s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000224' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000871s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000937s ]
+
+[ 2016-07-22T16:37:07+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001072s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0045s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000225' [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000644s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000679s ]
+
+[ 2016-07-22T16:37:08+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0052s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000226' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000603s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000639s ]
+
+[ 2016-07-22T16:37:08+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0053s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000227' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000884s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000959s ]
+
+[ 2016-07-22T16:37:09+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001131s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0057s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000230' [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000631s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000671s ]
+
+[ 2016-07-22T16:37:09+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000900s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0045s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000301' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000667s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000719s ]
+
+[ 2016-07-22T16:37:10+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000843s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0043s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000302' [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000575s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000611s ]
+
+[ 2016-07-22T16:37:10+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000936s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001509s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0060s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000303' [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000696s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000743s ]
+
+[ 2016-07-22T16:37:11+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000907s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0054s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000304' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000718s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000758s ]
+
+[ 2016-07-22T16:37:12+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000879s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0043s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000305' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000584s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000620s ]
+
+[ 2016-07-22T16:37:12+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0041s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000306' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000916s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001068s ]
+
+[ 2016-07-22T16:37:13+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0044s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000307' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000618s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000655s ]
+
+[ 2016-07-22T16:37:13+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001157s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0046s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000308' [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000609s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000668s ]
+
+[ 2016-07-22T16:37:14+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001186s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0059s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000309' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000681s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000739s ]
+
+[ 2016-07-22T16:37:14+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000964s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0049s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000310' [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000985s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001070s ]
+
+[ 2016-07-22T16:37:15+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001084s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0054s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000311' [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000653s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000696s ]
+
+[ 2016-07-22T16:37:15+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000881s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0040s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000312' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000596s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000638s ]
+
+[ 2016-07-22T16:37:16+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000840s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0053s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000313' [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000817s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000895s ]
+
+[ 2016-07-22T16:37:16+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001342s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0046s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000314' [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000759s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000818s ]
+
+[ 2016-07-22T16:37:17+08:00 ] ::1 /admin.php/Stu/delStu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001050s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0050s ]
+SQL: DELETE FROM `map_stu` WHERE `stuId` = '311405000315' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000688s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000745s ]
+
+[ 2016-07-22T17:52:01+08:00 ] ::1 /admin.php/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000769s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0281s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000469s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000507s ]
+
+[ 2016-07-22T17:52:05+08:00 ] ::1 /admin.php/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000503s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000537s ]
+
+[ 2016-07-22T17:52:19+08:00 ] ::1 /admin.php/Examine/verifyCertificate.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+SQL: SHOW COLUMNS FROM `map_certificate` [ RunTime:0.0029s ]
+SQL: UPDATE `map_certificate` SET `verify`='1' WHERE `id` = 15 [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000591s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000626s ]
+
+[ 2016-07-22T17:55:40+08:00 ] ::1 /admin.php/Examine/verifyCertificate.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+SQL: SHOW COLUMNS FROM `map_certificate` [ RunTime:0.0045s ]
+SQL: UPDATE `map_certificate` SET `verify`='1' WHERE `id` = 16 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000454s ]
+
+[ 2016-07-22T17:56:01+08:00 ] ::1 /admin.php/Examine/fixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `map_exam` WHERE `id` = 122 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_exam` SET `score`='101',`verify`='1',`fixScore`='' WHERE `id` = 122 [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000435s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000469s ]
+
+[ 2016-07-22T17:56:01+08:00 ] ::1 /admin.php/Examine/fixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `map_exam` WHERE `id` = 245 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_exam` SET `score`='101',`verify`='1',`fixScore`='' WHERE `id` = 245 [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000476s ]
+
+[ 2016-07-22T17:56:02+08:00 ] ::1 /admin.php/Examine/fixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `map_exam` WHERE `id` = 368 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_exam` SET `score`='101',`verify`='1',`fixScore`='' WHERE `id` = 368 [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000478s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000515s ]
+
+[ 2016-07-22T17:57:25+08:00 ] ::1 /admin.php/Examine/fixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000546s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `map_exam` WHERE `id` = 94 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_exam` SET `score`='0',`verify`='1',`fixScore`='' WHERE `id` = 94 [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000528s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000568s ]
+
+[ 2016-07-22T17:57:26+08:00 ] ::1 /admin.php/Examine/fixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `map_exam` WHERE `id` = 217 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_exam` SET `score`='0',`verify`='1',`fixScore`='' WHERE `id` = 217 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000528s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000565s ]
+
+[ 2016-07-22T17:57:26+08:00 ] ::1 /admin.php/Examine/fixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `map_exam` WHERE `id` = 340 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_exam` SET `score`='0',`verify`='1',`fixScore`='' WHERE `id` = 340 [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000471s ]
+
+[ 2016-07-22T18:23:59+08:00 ] ::1 /admin.php/Examine/fixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `map_exam` WHERE `id` = 84 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_exam` SET `score`='0',`verify`='1',`fixScore`='' WHERE `id` = 84 [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000464s ]
+
+[ 2016-07-22T18:23:59+08:00 ] ::1 /admin.php/Examine/fixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000944s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `map_exam` WHERE `id` = 207 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_exam` SET `score`='0',`verify`='1',`fixScore`='' WHERE `id` = 207 [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000460s ]
+
+[ 2016-07-22T18:23:59+08:00 ] ::1 /admin.php/Examine/fixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `map_exam` WHERE `id` = 330 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_exam` SET `score`='0',`verify`='1',`fixScore`='' WHERE `id` = 330 [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000464s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000499s ]
+

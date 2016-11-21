@@ -1,0 +1,32 @@
+[ 2016-09-22T22:49:17+08:00 ] 127.0.0.1 /Project/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012696s ]
+SQL: SHOW COLUMNS FROM `map_content` [ RunTime:0.0726s ]
+SQL: SELECT `id`,`title`,`date` FROM `map_content` WHERE `type` = '最新公告' ORDER BY date desc LIMIT 5   [ RunTime:0.0114s ]
+SQL: SELECT `id`,`title`,`date` FROM `map_content` WHERE `type` = '校内新闻' ORDER BY date desc LIMIT 5   [ RunTime:0.0004s ]
+SQL: SELECT `id`,`title`,`date` FROM `map_content` WHERE `type` = '学院动态' ORDER BY date desc LIMIT 8   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `map_down` [ RunTime:0.0125s ]
+SQL: SELECT `id`,`title`,`route`,`date` FROM `map_down` ORDER BY date desc LIMIT 5   [ RunTime:0.0063s ]
+SQL: SHOW COLUMNS FROM `map_imgtoggle` [ RunTime:0.0203s ]
+SQL: SELECT * FROM `map_imgtoggle` ORDER BY id desc LIMIT 4   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.017671s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.017755s ]
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 131 行.
+NOTIC: [8] Undefined index: stuId D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 138 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 175 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 182 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124511s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124599s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.017433s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017491s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009252s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009311s ]
+

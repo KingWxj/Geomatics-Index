@@ -1,0 +1,76 @@
+[ 2016-08-19T02:56:20+08:00 ] 127.0.0.1 /Project/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001823s ]
+SQL: SHOW COLUMNS FROM `map_content` [ RunTime:0.1574s ]
+SQL: SELECT `id`,`title`,`date` FROM `map_content` WHERE `type` = '最新公告' ORDER BY date desc LIMIT 5   [ RunTime:0.0883s ]
+SQL: SELECT `id`,`title`,`date` FROM `map_content` WHERE `type` = '校内新闻' ORDER BY date desc LIMIT 5   [ RunTime:0.0030s ]
+SQL: SELECT `id`,`title`,`date` FROM `map_content` WHERE `type` = '学院动态' ORDER BY date desc LIMIT 8   [ RunTime:0.0037s ]
+SQL: SHOW COLUMNS FROM `map_down` [ RunTime:0.0698s ]
+SQL: SELECT `id`,`title`,`route`,`date` FROM `map_down` ORDER BY date desc LIMIT 5   [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `map_imgtoggle` [ RunTime:0.0136s ]
+SQL: SELECT * FROM `map_imgtoggle` ORDER BY id desc LIMIT 4   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.015402s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015502s ]
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 130 行.
+NOTIC: [8] Undefined index: stuId D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 136 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 173 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+NOTIC: [8] Use of undefined constant utf8 - assumed 'utf8' D:\phpStudy\WWW\Project\Geomatics\Runtime\Cache\Home\74cec26956cda6f8b067c71a467795e7.php 第 180 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.153612s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.153691s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001080s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001145s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001580s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001683s ]
+
+[ 2016-08-19T02:56:21+08:00 ] 127.0.0.1 /Project/index.php/Login/verifyImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000463s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000656s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000728s ]
+

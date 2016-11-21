@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ */
+ *{margin: 0; padding: 0;font-family: "宋体";}
+.header {height: 97px;width: 1000px;min-width: 1000px;background:#326696;margin: 0 auto;}
+.header_nav{min-width: 1000px;width: 1000px; height: 30px; margin: 0 auto; background: #3E6DA5;}
+.photo_show{min-width: 1000px;width: 1000px; height: 250px; margin: 0 auto;}
+.college_main_new{min-width: 1000px;width: 1000px;/* height:300px;*/ margin:10px auto;}
+.college_photo{min-width: 1000px;width: 1000px; height: 75px; margin:10px auto;}
+.college_href , .college_href_left , .college_href_right{height: 70px;width: 237px; border: 2px solid #000;margin: 10px auto;}
+.college_href_right{float: right;}
+.college_href , .college_href_left{float:left; margin-right: 12px;}
+.college_notice,.college_new,.college_media{ height:160px;width:318px; border: 3px solid #6d767a;float: left;position: relative;}
+.college_new{margin-left: 14px;}
+.college_media{float: right;}
+.footer{min-width: 1000px;width: 1000px; height: 30px; border: 1px solid #475867; margin:5px auto; padding:3px;}
+
+
+
+
+
+

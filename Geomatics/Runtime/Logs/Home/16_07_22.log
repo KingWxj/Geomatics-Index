@@ -1,0 +1,285 @@
+[ 2016-07-22T13:01:46+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000817s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0853s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000596s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000635s ]
+
+[ 2016-07-22T17:08:02+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Geomatics\Home\Controller\LoginController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000466s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000504s ]
+
+[ 2016-07-22T17:08:10+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000863s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Geomatics\Home\Controller\LoginController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000511s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000566s ]
+
+[ 2016-07-22T17:11:42+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000649s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Geomatics\Home\Controller\LoginController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000357s ]
+
+[ 2016-07-22T17:11:46+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000520s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Geomatics\Home\Controller\LoginController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000393s ]
+
+[ 2016-07-22T17:11:59+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000538s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Geomatics\Home\Controller\LoginController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000331s ]
+
+[ 2016-07-22T17:12:21+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Geomatics\Home\Controller\LoginController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000312s ]
+
+[ 2016-07-22T17:12:23+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Geomatics\Home\Controller\LoginController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000381s ]
+
+[ 2016-07-22T17:12:25+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Geomatics\Home\Controller\LoginController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000420s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000472s ]
+
+[ 2016-07-22T17:12:34+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000662s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Geomatics\Home\Controller\LoginController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000311s ]
+
+[ 2016-07-22T17:14:41+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000538s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Geomatics\Home\Controller\LoginController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000395s ]
+
+[ 2016-07-22T17:14:43+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000541s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Geomatics\Home\Controller\LoginController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000292s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2016-07-22T17:14:46+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000595s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Geomatics\Home\Controller\LoginController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000286s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000320s ]
+
+[ 2016-07-22T17:14:48+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Geomatics\Home\Controller\LoginController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000421s ]
+
+[ 2016-07-22T17:14:49+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000560s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Geomatics\Home\Controller\LoginController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000334s ]
+
+[ 2016-07-22T17:14:51+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Geomatics\Home\Controller\LoginController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000346s ]
+
+[ 2016-07-22T17:14:52+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000882s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Geomatics\Home\Controller\LoginController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000539s ]
+
+[ 2016-07-22T17:37:39+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0047s ]
+NOTIC: [8] Undefined index: stuId D:\phpStudy\WWW\Geomatics\Home\Controller\LoginController.class.php 第 18 行.
+NOTIC: [8] Undefined index: password D:\phpStudy\WWW\Geomatics\Home\Controller\LoginController.class.php 第 18 行.
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = null AND `password` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000549s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000607s ]
+
+[ 2016-07-22T17:37:53+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0033s ]
+NOTIC: [8] Undefined index: stuId D:\phpStudy\WWW\Geomatics\Home\Controller\LoginController.class.php 第 18 行.
+NOTIC: [8] Undefined index: password D:\phpStudy\WWW\Geomatics\Home\Controller\LoginController.class.php 第 18 行.
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = null AND `password` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000467s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000503s ]
+
+[ 2016-07-22T17:40:32+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000609s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0048s ]
+NOTIC: [8] Undefined index: stuId D:\phpStudy\WWW\Geomatics\Home\Controller\LoginController.class.php 第 18 行.
+NOTIC: [8] Undefined index: password D:\phpStudy\WWW\Geomatics\Home\Controller\LoginController.class.php 第 18 行.
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = null AND `password` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000495s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2016-07-22T17:46:48+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000742s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0046s ]
+NOTIC: [8] Undefined index: stuId D:\phpStudy\WWW\Geomatics\Home\Controller\LoginController.class.php 第 18 行.
+NOTIC: [8] Undefined index: password D:\phpStudy\WWW\Geomatics\Home\Controller\LoginController.class.php 第 18 行.
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = null AND `password` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000635s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000686s ]
+
+[ 2016-07-22T17:48:05+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000894s ]
+
+[ 2016-07-22T17:48:44+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000644s ]
+
+[ 2016-07-22T17:48:59+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+
+[ 2016-07-22T17:49:57+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000389s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000449s ]
+
+[ 2016-07-22T17:50:31+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000500s ]
+
+[ 2016-07-22T17:51:30+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311405040113' AND `password` = '4cc0683fa53d151fa9141590b6a6081796b90dd1' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000438s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000472s ]
+
+[ 2016-07-22T17:54:52+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060429' AND `password` = '1856d050a4335bb57a9a08d9475f060aacc32116' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000485s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000528s ]
+
+[ 2016-07-22T17:55:20+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060429' AND `password` = '1856d050a4335bb57a9a08d9475f060aacc32116' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000467s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000504s ]
+
+[ 2016-07-22T17:57:14+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000856s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060401' AND `password` = '445efa3ac38aee4298c88b773510442fe35eef14' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2016-07-22T18:23:01+08:00 ] ::1 /index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060322' AND `password` = '9919f96447016e2633b0511ecb6b1372f5dc9963' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000506s ]
+

@@ -1,0 +1,130 @@
+[ 2016-07-31T14:24:22+08:00 ] ::1 /admin.php/Login/checkInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000862s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Admin\Home\Controller\LoginController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0866s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000610s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000642s ]
+
+[ 2016-07-31T14:24:29+08:00 ] ::1 /admin.php/Login/checkInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000847s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Admin\Home\Controller\LoginController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000575s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000610s ]
+
+[ 2016-07-31T14:24:29+08:00 ] ::1 /admin.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000776s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000484s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000517s ]
+
+[ 2016-07-31T14:37:13+08:00 ] ::1 /admin.php/Imgtoggle/sortImg.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000792s ]
+SQL: SHOW COLUMNS FROM `map_imgtoggle` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `map_imgtoggle` WHERE `id` > '3' LIMIT 1   [ RunTime:0.0807s ]
+SQL: UPDATE `map_imgtoggle` SET `id`='0' WHERE `id` = 3 [ RunTime:0.0413s ]
+SQL: UPDATE `map_imgtoggle` SET `id`='3' WHERE `id` = 4 [ RunTime:0.0004s ]
+SQL: UPDATE `map_imgtoggle` SET `id`='4' WHERE `id` = 0 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000660s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000698s ]
+
+[ 2016-07-31T14:37:16+08:00 ] ::1 /admin.php/Imgtoggle/sortImg.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000817s ]
+SQL: SHOW COLUMNS FROM `map_imgtoggle` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `map_imgtoggle` WHERE `id` > '2' LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `map_imgtoggle` SET `id`='0' WHERE `id` = 2 [ RunTime:0.0003s ]
+SQL: UPDATE `map_imgtoggle` SET `id`='2' WHERE `id` = 3 [ RunTime:0.0003s ]
+SQL: UPDATE `map_imgtoggle` SET `id`='3' WHERE `id` = 0 [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000619s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000656s ]
+
+[ 2016-07-31T14:37:17+08:00 ] ::1 /admin.php/Imgtoggle/sortImg.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000780s ]
+SQL: SHOW COLUMNS FROM `map_imgtoggle` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `map_imgtoggle` WHERE `id` > '3' LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_imgtoggle` SET `id`='0' WHERE `id` = 3 [ RunTime:0.0003s ]
+SQL: UPDATE `map_imgtoggle` SET `id`='3' WHERE `id` = 4 [ RunTime:0.0002s ]
+SQL: UPDATE `map_imgtoggle` SET `id`='4' WHERE `id` = 0 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000650s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000689s ]
+
+[ 2016-07-31T15:01:52+08:00 ] ::1 /admin.php/Nav/delListItem/id/1.html
+ERR: 非法操作:delListItem
+
+[ 2016-07-31T17:36:38+08:00 ] ::1 /admin.php/Login/checkInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000790s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Admin\Home\Controller\LoginController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000663s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000703s ]
+
+[ 2016-07-31T17:36:42+08:00 ] ::1 /admin.php/Login/checkInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000790s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Admin\Home\Controller\LoginController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000816s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000877s ]
+
+[ 2016-07-31T17:36:47+08:00 ] ::1 /admin.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000931s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000526s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000561s ]
+
+[ 2016-07-31T20:07:12+08:00 ] ::1 /admin.php/Evaluate/runEvaluateCer.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+SQL: SHOW COLUMNS FROM `map_certificate` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `map_certificate` WHERE `id` = 10 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_certificate` SET `verify`='1',`score`='6',`scoreLevel`='0' WHERE `id` = 10 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000575s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000610s ]
+
+[ 2016-07-31T20:08:49+08:00 ] ::1 /admin.php/Examine/fixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000776s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `map_exam` WHERE `id` = 745 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_exam` SET `score`='100',`verify`='1',`fixScore`='' WHERE `id` = 745 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000596s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000632s ]
+

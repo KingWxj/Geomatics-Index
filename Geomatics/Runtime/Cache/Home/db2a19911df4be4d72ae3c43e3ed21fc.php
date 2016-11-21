@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?>User控制器的index视图，用来显示登陆注册表单表单

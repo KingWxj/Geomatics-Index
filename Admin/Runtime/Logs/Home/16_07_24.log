@@ -1,0 +1,76 @@
+[ 2016-07-24T01:17:15+08:00 ] ::1 /admin.php/Examine/fixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `map_exam` WHERE `id` = 722 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_exam` SET `score`='100',`verify`='1',`fixScore`='' WHERE `id` = 722 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000604s ]
+
+[ 2016-07-24T01:17:15+08:00 ] ::1 /admin.php/Examine/fixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000806s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `map_exam` WHERE `id` = 745 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_exam` SET `score`='101',`verify`='1',`fixScore`='' WHERE `id` = 745 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000628s ]
+
+[ 2016-07-24T01:17:16+08:00 ] ::1 /admin.php/Examine/fixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000810s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `map_exam` WHERE `id` = 746 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_exam` SET `score`='102',`verify`='1',`fixScore`='' WHERE `id` = 746 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000576s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000611s ]
+
+[ 2016-07-24T13:49:53+08:00 ] ::1 /admin.php/News/2
+ERR: 非法操作:2
+
+[ 2016-07-24T14:42:20+08:00 ] ::1 /admin.php/Score/ajaxFixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001117s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0053s ]
+SQL: UPDATE `map_exam` SET `score`='100' WHERE `id` = 626 [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000786s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000830s ]
+
+[ 2016-07-24T15:27:53+08:00 ] ::1 /admin.php/Score/ajaxFixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000819s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0052s ]
+SQL: UPDATE `map_exam` SET `score`='1000' WHERE `id` = 741 [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000572s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000631s ]
+
+[ 2016-07-24T15:28:22+08:00 ] ::1 /admin.php/Score/ajaxFixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000867s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0040s ]
+SQL: UPDATE `map_exam` SET `score`='2000' WHERE `id` = 741 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000620s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000658s ]
+
+[ 2016-07-24T15:28:34+08:00 ] ::1 /admin.php/Score/ajaxFixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000952s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0056s ]
+SQL: UPDATE `map_exam` SET `score`='666' WHERE `id` = 741 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000588s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000626s ]
+

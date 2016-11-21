@@ -1,0 +1,792 @@
+[ 2016-07-15T00:00:06+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002214s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001648s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001774s ]
+
+[ 2016-07-15T00:00:27+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002358s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001639s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001759s ]
+
+[ 2016-07-15T00:00:36+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002018s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001618s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001746s ]
+
+[ 2016-07-15T00:00:38+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002129s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001673s ]
+
+[ 2016-07-15T00:00:40+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002195s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001820s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001968s ]
+
+[ 2016-07-15T00:01:18+08:00 ] ::1 /admin.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002179s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'Hpi' AND `password` = '17ba0791499db908433b80f37c5fbc89b870084b' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001558s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001678s ]
+
+[ 2016-07-15T00:01:27+08:00 ] ::1 /admin.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002144s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '11' AND `password` = '17ba0791499db908433b80f37c5fbc89b870084b' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001614s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001729s ]
+
+[ 2016-07-15T00:01:29+08:00 ] ::1 /admin.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002129s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003339s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '11' AND `password` = '17ba0791499db908433b80f37c5fbc89b870084b' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001850s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001988s ]
+
+[ 2016-07-15T00:01:37+08:00 ] ::1 /admin.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002023s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001578s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001695s ]
+
+[ 2016-07-15T00:02:26+08:00 ] ::1 /admin.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002015s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001601s ]
+
+[ 2016-07-15T00:02:48+08:00 ] ::1 /admin.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002222s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001711s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001897s ]
+
+[ 2016-07-15T00:03:06+08:00 ] ::1 /admin.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002415s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001703s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001825s ]
+
+[ 2016-07-15T00:04:08+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002200s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001579s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001701s ]
+
+[ 2016-07-15T00:04:08+08:00 ] ::1 /admin.php/Home/Login/Home/Index/index
+ERR: 非法操作:Home
+
+[ 2016-07-15T00:07:06+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002160s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002443s ]
+
+[ 2016-07-15T00:07:13+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002409s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '17ba0791499db908433b80f37c5fbc89b870084b' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001684s ]
+
+[ 2016-07-15T00:13:36+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002507s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001607s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001727s ]
+
+[ 2016-07-15T00:13:59+08:00 ] ::1 /admin.php/Home/Index/3
+ERR: 非法操作:3
+
+[ 2016-07-15T00:15:02+08:00 ] ::1 /admin.php/Home/Index/3
+ERR: 非法操作:3
+
+[ 2016-07-15T00:17:39+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002319s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001669s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001798s ]
+
+[ 2016-07-15T00:17:52+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002156s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001558s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001675s ]
+
+[ 2016-07-15T00:20:00+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002455s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001603s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001731s ]
+
+[ 2016-07-15T00:24:07+08:00 ] ::1 /admin.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002442s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001693s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001891s ]
+
+[ 2016-07-15T00:24:57+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001957s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001506s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001635s ]
+
+[ 2016-07-15T00:25:01+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002085s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001493s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001611s ]
+
+[ 2016-07-15T00:45:11+08:00 ] ::1 /admin.php/Home/Login/verifyImg.html12873
+ERR: 非法操作:verifyImg.html12873
+
+[ 2016-07-15T00:57:19+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002336s ]
+NOTIC: [8] Undefined index: verify D:\ApacheServer\www\Admin\Home\Controller\LoginController.class.php 第 28 行.
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001599s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001741s ]
+
+[ 2016-07-15T00:57:53+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002116s ]
+NOTIC: [8] Undefined index: verify D:\ApacheServer\www\Admin\Home\Controller\LoginController.class.php 第 28 行.
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001499s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001649s ]
+
+[ 2016-07-15T00:57:58+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002199s ]
+NOTIC: [8] Undefined index: verify D:\ApacheServer\www\Admin\Home\Controller\LoginController.class.php 第 28 行.
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001539s ]
+
+[ 2016-07-15T00:58:02+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002477s ]
+NOTIC: [8] Undefined index: verify D:\ApacheServer\www\Admin\Home\Controller\LoginController.class.php 第 28 行.
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001662s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001827s ]
+
+[ 2016-07-15T00:58:09+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002243s ]
+NOTIC: [8] Undefined index: verify D:\ApacheServer\www\Admin\Home\Controller\LoginController.class.php 第 28 行.
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001764s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001999s ]
+
+[ 2016-07-15T00:58:26+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002315s ]
+NOTIC: [8] Undefined index: verify D:\ApacheServer\www\Admin\Home\Controller\LoginController.class.php 第 28 行.
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001682s ]
+
+[ 2016-07-15T00:58:32+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002366s ]
+NOTIC: [8] Undefined index: verify D:\ApacheServer\www\Admin\Home\Controller\LoginController.class.php 第 28 行.
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001486s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001635s ]
+
+[ 2016-07-15T01:00:06+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002105s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001415s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001565s ]
+
+[ 2016-07-15T01:00:10+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002286s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001626s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001757s ]
+
+[ 2016-07-15T01:00:34+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002104s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '786e7d133b0f7121baa6b4ed50ef8604cd661f1f' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001606s ]
+
+[ 2016-07-15T01:00:39+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002091s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001495s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001671s ]
+
+[ 2016-07-15T01:01:05+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002581s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001742s ]
+
+[ 2016-07-15T01:01:31+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002432s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '786e7d133b0f7121baa6b4ed50ef8604cd661f1f' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001762s ]
+
+[ 2016-07-15T01:01:54+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001960s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002204s ]
+
+[ 2016-07-15T01:03:17+08:00 ] ::1 /admin.php/Home/News/1
+ERR: 非法操作:1
+
+[ 2016-07-15T10:14:08+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002019s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '786e7d133b0f7121baa6b4ed50ef8604cd661f1f' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001453s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001589s ]
+
+[ 2016-07-15T10:14:42+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001991s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001522s ]
+
+[ 2016-07-15T10:14:44+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002020s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001468s ]
+
+[ 2016-07-15T10:14:50+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002035s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001563s ]
+
+[ 2016-07-15T10:18:20+08:00 ] ::1 /admin.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002390s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001602s ]
+
+[ 2016-07-15T10:31:47+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002237s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001697s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001853s ]
+
+[ 2016-07-15T10:53:41+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002093s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '' AND `password` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001483s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001642s ]
+
+[ 2016-07-15T10:54:06+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002227s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001557s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001695s ]
+
+[ 2016-07-15T10:56:18+08:00 ] ::1 /admin.php/Home/Admin/index.html
+ERR: 模板不存在:./Admin/Home/View/Admin/index.php
+
+[ 2016-07-15T11:34:52+08:00 ] ::1 /admin.php/Home/Admin/addAdmin.html
+ERR: 模板不存在:./Admin/Home/View/Admin/addAdmin.php
+
+[ 2016-07-15T11:53:49+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002040s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'BZR1' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'BZR1' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001488s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001674s ]
+
+[ 2016-07-15T11:55:36+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001771s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'FDY1' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'FDY1' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001216s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001345s ]
+
+[ 2016-07-15T11:56:02+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001784s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'Geomatics' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'Geomatics' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001161s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001290s ]
+
+[ 2016-07-15T12:49:05+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002291s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'FDY1' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001431s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001570s ]
+
+[ 2016-07-15T12:49:14+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002100s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'FDY1' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'FDY1' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001624s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001776s ]
+
+[ 2016-07-15T12:52:20+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002309s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001733s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001872s ]
+
+[ 2016-07-15T12:56:03+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002153s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001615s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001756s ]
+
+[ 2016-07-15T12:59:18+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002298s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'Geomatics' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'Geomatics' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001691s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001854s ]
+
+[ 2016-07-15T13:35:10+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002176s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001580s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001714s ]
+
+[ 2016-07-15T13:35:56+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001871s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003162s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001735s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001881s ]
+
+[ 2016-07-15T14:21:11+08:00 ] ::1 /admin.php/Home/News/delNews.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002246s ]
+SQL: SHOW COLUMNS FROM `map_news` [ RunTime:0.0006s ]
+SQL: DELETE FROM `map_news` WHERE `id` = 10001 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001701s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001824s ]
+
+[ 2016-07-15T14:23:49+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001981s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = 'HPU' AND `password` = '8953995bddc5604ba8e46e567f837f7f7304ab65' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001410s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001546s ]
+
+[ 2016-07-15T14:24:01+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002156s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001537s ]
+
+[ 2016-07-15T14:24:10+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002311s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001553s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001691s ]
+
+[ 2016-07-15T14:25:29+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002419s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001494s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001635s ]
+
+[ 2016-07-15T14:25:46+08:00 ] ::1 /admin.php/Home/News/delNews.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002005s ]
+SQL: SHOW COLUMNS FROM `map_news` [ RunTime:0.0014s ]
+SQL: DELETE FROM `map_news` WHERE `id` = 1 [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001609s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001739s ]
+
+[ 2016-07-15T14:33:02+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001993s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '测绘学院' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '测绘学院' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001529s ]
+
+[ 2016-07-15T14:43:33+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002584s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '测绘学院' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '测绘学院' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001655s ]
+
+[ 2016-07-15T14:43:33+08:00 ] ::1 /admin.php/Home/Login/unAvaliable
+ERR: 非法操作:unAvaliable
+
+[ 2016-07-15T14:43:55+08:00 ] ::1 /admin.php/Home/Login/unAvaliable
+ERR: 非法操作:unAvaliable
+
+[ 2016-07-15T14:44:55+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002423s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '测绘学院' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '测绘学院' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001669s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001802s ]
+
+[ 2016-07-15T14:44:55+08:00 ] ::1 /admin.php/Home/Login/adminError
+ERR: 非法操作:adminError
+
+[ 2016-07-15T14:46:26+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002308s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '测绘学院' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '测绘学院' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001596s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001749s ]
+
+[ 2016-07-15T14:46:54+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002467s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '测绘学院' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001576s ]
+
+[ 2016-07-15T14:47:06+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002130s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '测绘学院' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001579s ]
+
+[ 2016-07-15T14:47:48+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002517s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '测绘学院' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001630s ]
+
+[ 2016-07-15T14:48:05+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002273s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '测绘学院' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '测绘学院' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001567s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001705s ]
+
+[ 2016-07-15T14:48:21+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002281s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001570s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001715s ]
+
+[ 2016-07-15T16:03:31+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002217s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001513s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001644s ]
+
+[ 2016-07-15T17:46:33+08:00 ] ::1 /admin.php/Home/News/delNews.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002230s ]
+SQL: SHOW COLUMNS FROM `map_news` [ RunTime:0.0013s ]
+SQL: DELETE FROM `map_news` WHERE `id` = 2 [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001783s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001962s ]
+
+[ 2016-07-15T17:48:22+08:00 ] ::1 /admin.php/Home/Upload/index.html
+ERR: 模板不存在:./Admin/Home/View/Upload/index.php
+
+[ 2016-07-15T17:59:14+08:00 ] ::1 /admin.php/Home/Login/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002133s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001580s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001719s ]
+

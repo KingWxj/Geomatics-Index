@@ -1,0 +1,161 @@
+[ 2016-07-31T00:55:18+08:00 ] 127.0.0.1 /web/pluginRepository.xml
+ERR: 无法加载控制器:Web
+
+[ 2016-07-31T03:58:04+08:00 ] 127.0.0.1 /rjsdcctrl?mac%3d3c970edcbec0%26ipv4%3d1655623546%26ipv61%3d0%26ipv62%3d0%26ipv63%3d0%26ipv64%3d0%26product%3d33554432%26mainver%3d67108864%26subver%3d1660944384
+ERR: 无法加载控制器:Rjsdcctrl
+
+[ 2016-07-31T04:27:14+08:00 ] 127.0.0.1 /WWW/PHPMail.php
+ERR: 无法加载控制器:WWW
+
+[ 2016-07-31T04:27:15+08:00 ] 127.0.0.1 /WWW/PHPMail.php
+ERR: 无法加载控制器:WWW
+
+[ 2016-07-31T14:24:05+08:00 ] ::1 /Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000799s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0958s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0092s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000639s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000670s ]
+
+[ 2016-07-31T14:24:06+08:00 ] ::1 /Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000851s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000606s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000640s ]
+
+[ 2016-07-31T14:24:31+08:00 ] ::1 /Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001468s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000676s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000727s ]
+
+[ 2016-07-31T14:24:32+08:00 ] ::1 /Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001163s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000605s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000640s ]
+
+[ 2016-07-31T14:37:07+08:00 ] ::1 /Public/umeditor/themes/default/css/umeditor.css
+ERR: 无法加载控制器:Public
+
+[ 2016-07-31T15:04:17+08:00 ] ::1 /Public/umeditor/themes/default/css/umeditor.css
+ERR: 无法加载控制器:Public
+
+[ 2016-07-31T16:05:26+08:00 ] ::1 /Public/umeditor/themes/default/css/umeditor.css
+ERR: 无法加载控制器:Public
+
+[ 2016-07-31T16:31:45+08:00 ] ::1 /Public/umeditor/themes/default/css/umeditor.css
+ERR: 无法加载控制器:Public
+
+[ 2016-07-31T16:54:08+08:00 ] 127.0.0.1 /rjsdcctrl?mac%3d3c970edcbec0%26ipv4%3d1655623546%26ipv61%3d0%26ipv62%3d0%26ipv63%3d0%26ipv64%3d0%26product%3d33554432%26mainver%3d67108864%26subver%3d1660944384
+ERR: 无法加载控制器:Rjsdcctrl
+
+[ 2016-07-31T17:53:59+08:00 ] ::1 /Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000798s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000573s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000612s ]
+
+[ 2016-07-31T17:54:35+08:00 ] ::1 /Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000839s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000579s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000621s ]
+
+[ 2016-07-31T17:59:40+08:00 ] ::1 /Show/showNav/id/21.html
+ERR: 模板不存在:./Geomatics/Home/View/Show/showNavList.php
+
+[ 2016-07-31T18:00:22+08:00 ] ::1 /Show/showNav/id/21.html
+ERR: 模板不存在:./Geomatics/Home/View/Show/showNavList.php
+
+[ 2016-07-31T18:00:32+08:00 ] ::1 /Show/showNav/id/21.html
+ERR: 模板不存在:./Geomatics/Home/View/Show/showNavList.php
+
+[ 2016-07-31T18:20:20+08:00 ] ::1 /Nav/showNavList/id/21.html
+ERR: 无法加载控制器:Nav
+
+[ 2016-07-31T18:20:46+08:00 ] ::1 /Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000603s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000639s ]
+
+[ 2016-07-31T18:22:05+08:00 ] ::1 /Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000945s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000577s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000611s ]
+
+[ 2016-07-31T18:24:30+08:00 ] ::1 /Show/showNavArt/id/22.html
+ERR: 非法操作:showNavArt
+
+[ 2016-07-31T18:25:51+08:00 ] ::1 /Show/showNavArt/id/22.html
+ERR: 非法操作:showNavArt
+
+[ 2016-07-31T18:25:59+08:00 ] ::1 /Show/showNavArt/id/22.html
+ERR: 模板不存在:./Geomatics/Home/View/Show/showNavArt.php
+
+[ 2016-07-31T19:41:24+08:00 ] ::1 /Show/showNavListArt/id/10.html
+ERR: 模板不存在:./Geomatics/Home/View/Show/showNavListArt.php
+
+[ 2016-07-31T19:43:59+08:00 ] ::1 /Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000848s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000668s ]
+
+[ 2016-07-31T19:46:43+08:00 ] ::1 /Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001287s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000676s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000713s ]
+
+[ 2016-07-31T19:47:29+08:00 ] ::1 /Login/check.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000915s ]
+SQL: SHOW COLUMNS FROM `map_stu` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `map_stu` WHERE `stuId` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000605s ]
+

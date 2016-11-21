@@ -1,0 +1,98 @@
+[ 2016-07-26T20:30:10+08:00 ] ::1 /admin.php/Examine/fixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000810s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `map_exam` WHERE `id` = 722 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_exam` SET `score`='10',`verify`='1',`fixScore`='' WHERE `id` = 722 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000650s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000696s ]
+
+[ 2016-07-26T20:30:11+08:00 ] ::1 /admin.php/Examine/fixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000799s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `map_exam` WHERE `id` = 745 LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `map_exam` SET `verify`='2' WHERE `id` = 745 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000605s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000639s ]
+
+[ 2016-07-26T20:30:12+08:00 ] ::1 /admin.php/Examine/fixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000885s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `map_exam` WHERE `id` = 746 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_exam` SET `score`='30',`verify`='1',`fixScore`='' WHERE `id` = 746 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000567s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000601s ]
+
+[ 2016-07-26T20:55:52+08:00 ] ::1 /admin.php/Geomatics/Index/index.html
+ERR: 无法加载控制器:Geomatics
+
+[ 2016-07-26T21:07:10+08:00 ] ::1 /admin.php/Geomatics/Index/index.html
+ERR: 无法加载控制器:Geomatics
+
+[ 2016-07-26T21:07:14+08:00 ] ::1 /admin.php/Geomatics/Index/index.html
+ERR: 无法加载控制器:Geomatics
+
+[ 2016-07-26T21:07:53+08:00 ] ::1 /admin.php/Login/index.php
+ERR: 非法操作:index.php
+
+[ 2016-07-26T21:46:57+08:00 ] ::1 /admin.php/Score/ajaxDelScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000792s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0045s ]
+SQL: DELETE FROM `map_exam` WHERE `id` = 620 [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000583s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000620s ]
+
+[ 2016-07-26T21:47:11+08:00 ] ::1 /admin.php/Score/ajaxDelScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0056s ]
+SQL: DELETE FROM `map_exam` WHERE `id` = 621 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000597s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000635s ]
+
+[ 2016-07-26T21:47:27+08:00 ] ::1 /admin.php/Score/ajaxDelScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000949s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0056s ]
+SQL: DELETE FROM `map_exam` WHERE `id` = 622 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000604s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000671s ]
+
+[ 2016-07-26T21:47:30+08:00 ] ::1 /admin.php/Score/ajaxDelScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000935s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0044s ]
+SQL: DELETE FROM `map_exam` WHERE `id` = 623 [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000756s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000796s ]
+
+[ 2016-07-26T21:51:24+08:00 ] ::1 /admin.php/Score/2
+ERR: 非法操作:2
+
+[ 2016-07-26T22:03:48+08:00 ] ::1 /admin.php/Score/ajaxDelScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000935s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0040s ]
+SQL: DELETE FROM `map_exam` WHERE `id` = 747 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000649s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000685s ]
+

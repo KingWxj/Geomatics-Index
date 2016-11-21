@@ -1,0 +1,110 @@
+[ 2016-08-01T11:41:35+08:00 ] ::1 /admin.php/Login/checkInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Admin\Home\Controller\LoginController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0444s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '311509060410' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000541s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000588s ]
+
+[ 2016-08-01T11:41:41+08:00 ] ::1 /admin.php/Login/checkInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Admin\Home\Controller\LoginController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2016-08-01T11:41:46+08:00 ] ::1 /admin.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000612s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0044s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000368s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000408s ]
+
+[ 2016-08-01T21:42:10+08:00 ] ::1 /admin.php/Login/checkInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000761s ]
+NOTIC: [8] Undefined index: verify D:\phpStudy\WWW\Admin\Home\Controller\LoginController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0810s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000621s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000660s ]
+
+[ 2016-08-01T21:42:13+08:00 ] ::1 /admin.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+SQL: SHOW COLUMNS FROM `map_admin` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `map_admin` WHERE `name` = '王晓杰' AND `password` = '501e0bbac99eb3673e5df715eacd9d0efb5601f5' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000488s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000531s ]
+
+[ 2016-08-01T21:42:48+08:00 ] ::1 /admin.php/Examine/fixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001012s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `map_exam` WHERE `id` = 722 LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `map_exam` SET `score`='59',`verify`='1',`fixScore`='' WHERE `id` = 722 [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000583s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000622s ]
+
+[ 2016-08-01T21:42:48+08:00 ] ::1 /admin.php/Examine/fixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `map_exam` WHERE `id` = 745 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `map_exam` SET `score`='59',`verify`='1',`fixScore`='' WHERE `id` = 745 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000563s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000599s ]
+
+[ 2016-08-01T21:42:49+08:00 ] ::1 /admin.php/Examine/fixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000790s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `map_exam` WHERE `id` = 851 LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `map_exam` SET `verify`='2' WHERE `id` = 851 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000583s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000620s ]
+
+[ 2016-08-01T21:42:50+08:00 ] ::1 /admin.php/Examine/fixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000765s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `map_exam` WHERE `id` = 746 LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `map_exam` SET `verify`='2' WHERE `id` = 746 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000671s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000722s ]
+
+[ 2016-08-01T21:42:51+08:00 ] ::1 /admin.php/Examine/fixScore.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+SQL: SHOW COLUMNS FROM `map_exam` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `map_exam` WHERE `id` = 872 LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `map_exam` SET `score`='59',`verify`='1',`fixScore`='' WHERE `id` = 872 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000570s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000603s ]
+

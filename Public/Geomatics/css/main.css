@@ -1,0 +1,117 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+
+ */
+.header span{color: #fff;font-size: 30px;padding-top: 25px;display: inline-block;padding-left: 20px;}
+.header img{margin:20px 20px;float: left;}
+/*导航*/
+.header_nav .nav_menu li{list-style: none;float: left;width: 80px;height:30px;text-align: center;line-height: 30px;border-bottom: 1px solid #fff; }
+.header_nav .nav_menu li:hover{background: #175288;}
+.header_nav .nav_menu li a{ color:#fff; font-size: 15px; font-weight: 700;}
+.header_nav input{width: 100px; margin-top: 7px;margin-left: 12px;}
+.header_nav .nav_menu .on a{ color:#fff;}
+.header_nav ul li ul{float: left;z-index: 1;position: absolute;}
+.header_nav ul li ul li{clear:left;}
+.header_nav .nav_menu li ul li{background: #3E6DA5;font-size: 10px; width: 200px; }
+.header_nav .nav_menu li ul li a{color:#fff;}
+.header_nav .nav_menu li ul{display: none;}
+/*导航*/
+/*登录注册框*/
+.photo_show_right_two p{margin-top: 10px;margin-left: 5px; font-weight: 700;}
+.photo_show_right_two input{width: 140px;margin-top:5px;margin-left: 5px;}
+.photo_show_right_two a{color:#000;font-weight: 600;margin-left: 5px;margin-top:10px;padding: 3px 5px; display: inline-block;background:#537ca1;}
+.photo_show_right_two .register{margin-right: 50px;}
+.photo_show_right_two a:hover{background: #5a8cba;color: #fff;}
+/*.photo_show_right_two span{width: 80px; height:30px;border: 1px solid #ccc; margin-left: 5px;margin-top: 5px;}*/
+.photo_show_right_two .validate{width: 40px;}
+.photo_show_right_two img{width: 60px;height: 25px;}
+/*登录注册框*/
+/*轮播*/
+.photo_show .photo_show_left{position:relative;height: 250px; width: 50%; background: #ddd;float: left;overflow: hidden;position: relative;}
+.photo_show .photo_show_left .photo_list{position: relative; width: 2000px;}
+.photo_show .photo_show_left .photo_list img{border: none;}
+.photo_show .photo_show_left .photo_list li{float: left;list-style: none;}
+.photo_show .photo_show_left .num_list li{float: left;list-style: none;color: #fff;padding: 2px 5px;border: 1px solid #ccc;font-weight: 600;}
+.photo_show .photo_show_left .num_list .indexon{background: #bfcace;color:#000;}
+.photo_show .photo_show_left .num_list{position: absolute;right:0px;top: 225px;}
+/*轮播*/
+.photo_show .photo_show_right_one,.photo_show .photo_show_right_two{font-size:15px;height: 240px;margin-top:5px;margin-left:16px;border: 3px solid #6d767a;  width: 30%; float: left; z-index:-1;}
+.photo_show .photo_show_right_one{width: 30%;min-width: 300px; position: relative;z-index: 0;}
+.photo_show .photo_show_right_two{width: 15.5%; min-width: 155px;}
+.photo_show .photo_show_right_two ul li{}
+/*.photo_show .photo_show_right_two{height: 240px; width: 15.5%; float: left; z-index:-1;border: 3px solid #6d767a;margin-top:5px;margin-left:15px;}*/
+.photo_show_right_style{padding: 5px;background:#3E6DA5; color: #fff;font-weight: 600;margin-left: 5px;}
+.new_notice{font-size: 15px;font-weight: 600;padding: 5px;background: #3E6DA5;color:#fff;margin: 5px;}
+.college_main_new ul li,.photo_show_right_one li,.photo_show_right_two ul li {font-size: 13px;margin-top: 10px;margin-left: 20px;}
+.college_main_new ul li a,.photo_show ul li a{ color: #000;}
+.college_main_new .timer{float: right;margin-right: 20px;}
+.more a{font-size: 12px;padding: 3px;color: #fff;background: #3E6DA5;position: absolute;right: 10px;top: 0px;}
+.more a:hover{background: #cfe5fa; color:#363737;}
+.college_main_new ul li a:hover,.photo_show ul li a:hover{background: #ccc;text-decoration:underline;}
+.college_photo h3 {text-align: center; line-height: 70px;color: #000;}
+.college_photo h3 img{border: none;}
+.college_photo a{color: #000;} 
+.college_photo a:hover{color: #fff; background: #b1c4d6;}
+.college_photo a h3:hover{color: #fff;}
+.footer p{font-size: 10px;text-align: center;color: #2a2b2b;}
+a{text-decoration: none;}
+
+/*tabpage   css样式*/
+.main_body ul{list-style: none ;}
+.main_body a{text-decoration: none;color: #000;}
+.main_body{width: 1000px; margin: 0 auto; border:2px solid #6d767a;margin-top: 10px;overflow:hidden;/*min-height: 700px;*/margin-bottom: 10px;position: relative;}
+.main_body_left,.main_body_right{border:3px solid #6d767a;min-height: 670px;float: left;}
+.main_body_left{width: 200px;background: #3E6DA5;margin: 10px; }
+.main_body_right{width: 750px;background: #e0e6eb;margin:10px 5px;position: relative;/*position: absolute;left: 225px;*/}
+.main_body_left h2{color: #fff;font-weight: 600;text-align: center;margin-top: 10px; border-bottom: 3px solid #fff;padding-bottom: 10px;}
+.main_body_left ul li{text-align: center;height: 50px;line-height: 50px;}
+.main_body_left ul li a{ color:#fff;font-weight: 600;font-size: 15px;}
+.main_body_left ul li:hover{background: #23415e;}
+.main_body_right p{font-size: 14px;padding: 10px 15px; border-bottom: 3px solid #6d767a;}
+.main_body_right .main_new_list li{margin: 10px 15px; padding: 4px;cursor: pointer;}
+.main_body_right .main_new_list li:hover{background: #868f97;}
+.main_body_right .main_new_list li a{font-size: 14px;}
+.main_body_right .main_new_list li a:hover{text-decoration:underline;}
+.page_num {position: absolute;left: 430px; bottom: 30px;}
+.page_num li{float:left; margin-left: 15px;}
+.page_num li a{padding: 2px 4px;}
+.page_num span{margin-left: 15px;}
+.main_body .page_num .page_on a{background: #3E6DA5;color: #fff;}   
+ /*tabpage   css样式*/
+.num_list li{
+	cursor: pointer;
+}
+
+.college_notice li a,.college_new li a{
+	width: 200px;
+	display: inline-block;
+	/*超出部分隐藏*/
+	overflow:hidden;
+	/*保持一行*/
+	white-space:nowrap;
+	/*超出部分显示样式*/
+	text-overflow:ellipsis;
+}
+
+.photo_show_right_one ul li a{
+	width: 170px;
+	display: inline-block;
+	/*超出部分隐藏*/
+	overflow:hidden;
+	/*保持一行*/
+	white-space:nowrap;
+	/*超出部分显示样式*/
+	text-overflow:ellipsis;
+}
+
+
+
+
+
+
+
+
+
+

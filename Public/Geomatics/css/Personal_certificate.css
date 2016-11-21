@@ -1,0 +1,27 @@
+#tips{
+	margin: 10px 0 0 20px;
+	font-size: 10px;
+	color: gray;
+	font-style: italic;
+}
+#upload_bar{
+	margin: 10px 0 0 20px;
+}
+#name{
+	width: 300px;
+}
+#file{
+	margin: 0 0 0 50px;
+}
+#show_certificate{
+	margin: 10px 0 0 20px;
+	overflow: hidden;
+}
+.certificate_box{
+	float:left;
+	width: 200px;
+	margin: 10px 60px 0 0;
+}
+.certificate_box p{
+	text-align: center;
+}
